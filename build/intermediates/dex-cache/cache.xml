@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/emerichoerner/Documents/Android/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/emerichoerner/Documents/Android/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_bf415e2ee53bbbd6d96ce5ed59417e6f94c0d5f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/emerichoerner/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/emerichoerner/Documents/Android/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_2ef49269440197427a89d18493591fd88d09a04f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/emerichoerner/Documents/Android/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/emerichoerner/Documents/Android/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_31ff13fc5892ff62c8bdd722f50f0cc87611659d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/emerichoerner/Documents/Android/BluetoothLeGatt/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="49a77c1026fac35951b9da6b29996da32090d379">
+        <dex dex="/Users/emerichoerner/Documents/Android/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/instant-run_af5b1d6a20498659b0f2500a6ebed1fcef85af15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/emerichoerner/Documents/Android/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/emerichoerner/Documents/Android/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_921e9a7b08d8fbcb04b2d405bbd79b5e9ba13a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/emerichoerner/Documents/Android/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/emerichoerner/Documents/Android/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.3.0_ce306f91174eb2ea810fd1e33ae3f92203a6f4ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/emerichoerner/Documents/Android/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/emerichoerner/Documents/Android/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.3.0_85715ea16a30c8afef1f166c5d7064d57c71f556.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/emerichoerner/Documents/Android/BluetoothLeGatt/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d2b7857aa3f7b4e1908ab7939963dbb62ec123f7">
+        <dex dex="/Users/emerichoerner/Documents/Android/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/instant-run-bootstrap_dd1d982677f2ea12c536363e2f8029250ab07f44.jar" />
+    </item>
+
+</items>
